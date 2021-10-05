@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MobileTrab01"
+             x:Class="MobileTrab01.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Aplicação Teste" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Label Text="Login" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="login" Keyboard="Default" Placeholder="Digite o Id" />
+        <Label Text="Senha" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="senha" Placeholder="Digite a Senha" IsPassword="true"/>
+        <Button x:Name="btnOK" Clicked="Ok_Clicked"
+            Text="OK" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button x:Name="btnLimpar" Clicked="Limpar_Clicked"
+            Text="Limpar" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button x:Name="btnCred" Clicked="Cred_Clicked"
+            Text="Créditos" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+</ContentPage>
