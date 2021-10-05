@@ -1,0 +1,12 @@
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\bin\Debug\netstandard2.0\Trab01.deps.json
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\bin\Debug\netstandard2.0\Trab01.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\bin\Debug\netstandard2.0\Trab01.pdb
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.csprojAssemblyReference.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.csproj.CoreCompileInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.AssemblyInfoInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.AssemblyInfo.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab1\Trab01\Trab01\Trab01\obj\Debug\netstandard2.0\Trab01.pdb
