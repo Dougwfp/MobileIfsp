@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pySDC/+NCGBpDsRKjrxLHcfUIsa/FUCo7Z2JXyx6a61WaoeUrnAMRJ9+70tp9vJRti8mle+VN+wx4Vdpbo64PA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\faculdade\\mobileTuller\\MobileIfsp\\trab3\\trab03\\trab03\\trab03.iOS\\trab03.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\dougd\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
