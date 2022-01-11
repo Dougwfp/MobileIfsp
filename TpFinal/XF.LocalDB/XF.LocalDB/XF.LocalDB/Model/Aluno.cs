@@ -52,8 +52,7 @@ namespace XF.LocalDB.Model
             lock (locker)
             {
                 // return database.Query< Aluno>("SELECT * FROM [Aluno] WHERE[Id] = " + Id);
-            return database.Table<Aluno>().Where(c => c.Id ==
-            Id).FirstOrDefault();
+            return database.Table<Aluno>().Where(c => c.Id == Id).FirstOrDefault();
             }
         }
         public int RemoverAluno(int Id)
